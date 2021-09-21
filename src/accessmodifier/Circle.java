@@ -7,11 +7,11 @@ public class Circle {
     public Circle() {
     }
 
-    public Circle(double radius) {
+    private Circle(double radius) {
         this.radius = radius;
     }
 
-    public double getRadius() {
+    private double getRadius() {
         return radius;
     }
 
