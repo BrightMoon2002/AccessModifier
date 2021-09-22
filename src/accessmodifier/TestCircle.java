@@ -10,7 +10,7 @@ public class TestCircle {
 
         Circle circle1 = new Circle();
         System.out.println(circle1.toString());
-        System.out.println("The radius of circle is: " + circle1.getArea());
+        System.out.println("The radius of circle is: " + circle1.getRadius());
         System.out.println("The Area of circle is: " + circle1.getArea());
         circle1.setColor("Yellow");
         circle1.setRadius(2);

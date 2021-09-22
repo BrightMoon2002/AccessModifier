@@ -11,7 +11,7 @@ public class Circle {
         this.radius = radius;
     }
 
-    private double getRadius() {
+    public double getRadius() {
         return radius;
     }
 
